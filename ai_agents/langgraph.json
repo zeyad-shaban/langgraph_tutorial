@@ -1,6 +1,6 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "agent": "./3_react_agent.py:app"
+    "agent": "./4_drafter.py:app"
   }
 }
